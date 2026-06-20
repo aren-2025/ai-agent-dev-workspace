@@ -1,2 +1,0 @@
-# wall-sniper-bot
-traking
