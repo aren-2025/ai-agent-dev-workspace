@@ -1,0 +1,28 @@
+# Common generated files
+.DS_Store
+Thumbs.db
+*.log
+logs/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.turbo/
+.cache/
+
+# Python caches
+__pycache__/
+.venv/
+venv/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
